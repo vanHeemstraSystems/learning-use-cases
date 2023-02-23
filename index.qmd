@@ -19,3 +19,16 @@ flowchart LR
   D --> F{Abstract UC: Master Computing}
   E --> F{Abstract UC: Master Computing}
 ```
+
+See also "Learn More About Computing Environment And Its Different Types" at https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/
+
+- Traditional Computing Environment
+- Cloud Computing
+- Grid Computing
+- Distributed Computing
+- Cluster Computing
+- Personal Computing
+- Time-Sharing Computing
+- Client-Server Computing
+- Peer-to-Peer Computing
+- Mobile Computing
