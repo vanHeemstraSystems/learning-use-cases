@@ -20,7 +20,7 @@ flowchart LR
   E --> F{Abstract UC: Master Computing}
 ```
 
-See also "Learn More About Computing Environment And Its Different Types" at https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/
+See also "Learn More About Computing Environment And Its Different Types" at <https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/>
 
 - Traditional Computing Environment
 - Cloud Computing
