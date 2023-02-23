@@ -9,6 +9,4 @@ Can be read as "Learning Computing - Use Cases" at https://app.gitbook.com/o/mhL
 
 Can be browsed as "Learning Computing - Use Cases" at https://vanheemstrasystems.github.io/learning-computing-use-cases/
 
-See also "Learn More About Computing Environment And Its Different Types" at https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/
-
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
