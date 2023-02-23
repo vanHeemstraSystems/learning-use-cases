@@ -10,7 +10,6 @@ website:
         text: Home
       - about.qmd
       - cloud-computing.qmd
-      - containerization.qmd
 
 format:
   html:
