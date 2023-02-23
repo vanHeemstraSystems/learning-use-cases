@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-computing-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-computing-use-cases/actions/workflows/publish.yml)
+
 learning-computing-use-cases
 # Learning Computing - Use Cases
 
