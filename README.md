@@ -3,7 +3,7 @@
 learning-computing-use-cases
 # Learning Computing - Use Cases
 
-Part of "Learning - Computing" at https://github.com/vanHeemstraSystems/learning-security
+Part of "Learning - Computing" at https://github.com/vanHeemstraSystems/learning-computing
 
 Can be read as "Learning Computing - Use Cases" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
 
