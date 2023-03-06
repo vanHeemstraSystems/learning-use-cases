@@ -2,9 +2,9 @@
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning Computing - Use-Cases",
+    "title": "Learning - Use-Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning Computing - Use Cases"
+    "text": "Table of contents\n\nLearning - Use Cases"
   },
   {
     "objectID": "about.html",
@@ -14,17 +14,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "cloud-computing.html",
-    "href": "cloud-computing.html",
-    "title": "Cloud Computing",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning Computing - Use-Cases",
+    "title": "Learning - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Computing\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cloud Computing)\n  A[Learner] --> C(UC: Master XXX Computing)\n  A[Learner] --> D(UC: Master YYY Computing)\n  A[Learner] --> E(UC: Master ZZZ Computing)  \n  B --> F{Abstract UC: Master Computing}\n  C --> F{Abstract UC: Master Computing}\n  D --> F{Abstract UC: Master Computing}\n  E --> F{Abstract UC: Master Computing}\n\n\n\n\n\n\n\n\nSee also “Learn More About Computing Environment And Its Different Types” at https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/\n\nTraditional Computing Environment\nCloud Computing\nGrid Computing\nDistributed Computing\nCluster Computing\nPersonal Computing\nTime-Sharing Computing\nClient-Server Computing\nPeer-to-Peer Computing\nMobile Computing"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster XYZ\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master AAA XYZ)\n  A[Learner] --> C(UC: Master XXX XYZ)\n  A[Learner] --> D(UC: Master YYY XYZ)\n  A[Learner] --> E(UC: Master ZZZ XYZ)  \n  B --> F{Abstract UC: Master XYZ}\n  C --> F{Abstract UC: Master XYZ}\n  D --> F{Abstract UC: Master XYZ}\n  E --> F{Abstract UC: Master XYZ}"
+  },
+  {
+    "objectID": "xyz.html",
+    "href": "xyz.html",
+    "title": "XYZ",
+    "section": "",
+    "text": "About this site"
   }
 ]
