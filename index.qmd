@@ -1,34 +1,21 @@
 ---
-title: "Learning Computing - Use-Cases"
+title: "Learning - Use-Cases"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Computing
+# Master XYZ
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Cloud Computing)
-  A[Learner] --> C(UC: Master XXX Computing)
-  A[Learner] --> D(UC: Master YYY Computing)
-  A[Learner] --> E(UC: Master ZZZ Computing)  
-  B --> F{Abstract UC: Master Computing}
-  C --> F{Abstract UC: Master Computing}
-  D --> F{Abstract UC: Master Computing}
-  E --> F{Abstract UC: Master Computing}
+  A[Learner] --> B(UC: Master AAA XYZ)
+  A[Learner] --> C(UC: Master XXX XYZ)
+  A[Learner] --> D(UC: Master YYY XYZ)
+  A[Learner] --> E(UC: Master ZZZ XYZ)  
+  B --> F{Abstract UC: Master XYZ}
+  C --> F{Abstract UC: Master XYZ}
+  D --> F{Abstract UC: Master XYZ}
+  E --> F{Abstract UC: Master XYZ}
 ```
-
-See also "Learn More About Computing Environment And Its Different Types" at <https://www.hitechnectar.com/blogs/learn-more-about-computing-environment-and-its-different-types/>
-
-- Traditional Computing Environment
-- Cloud Computing
-- Grid Computing
-- Distributed Computing
-- Cluster Computing
-- Personal Computing
-- Time-Sharing Computing
-- Client-Server Computing
-- Peer-to-Peer Computing
-- Mobile Computing
