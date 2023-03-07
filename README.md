@@ -3,7 +3,7 @@
 learning-use-cases
 # Learning - Use Cases
 
-Part of "Learning" at https://github.com/vanHeemstraSystems/learning-computing
+Part of "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Can be read as "Learning - Use Cases" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
 
