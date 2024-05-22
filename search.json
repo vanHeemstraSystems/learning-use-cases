@@ -2,7 +2,7 @@
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning - Use-Cases",
+    "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning - Use Cases"
   },
@@ -14,17 +14,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Use-Cases",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster XYZ\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master AAA XYZ)\n  A[Learner] --> C(UC: Master XXX XYZ)\n  A[Learner] --> D(UC: Master YYY XYZ)\n  A[Learner] --> E(UC: Master ZZZ XYZ)  \n  B --> F{Abstract UC: Master XYZ}\n  C --> F{Abstract UC: Master XYZ}\n  D --> F{Abstract UC: Master XYZ}\n  E --> F{Abstract UC: Master XYZ}"
-  },
-  {
     "objectID": "xyz.html",
     "href": "xyz.html",
     "title": "XYZ",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster XYZ\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master AAA XYZ)\n  A[Learner] --&gt; C(UC: Master XXX XYZ)\n  A[Learner] --&gt; D(UC: Master YYY XYZ)\n  A[Learner] --&gt; E(UC: Master ZZZ XYZ)  \n  B --&gt; F{Abstract UC: Master XYZ}\n  C --&gt; F{Abstract UC: Master XYZ}\n  D --&gt; F{Abstract UC: Master XYZ}\n  E --&gt; F{Abstract UC: Master XYZ}"
   }
 ]
